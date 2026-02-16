@@ -89,11 +89,8 @@ footer {
     color: #8b949e;
 }
 
-<<<<<<< HEAD
 
 
-=======
->>>>>>> 36e1d4006de1a22b6c2aab193dcae05fe914fc8f
 .card {
     background-color: #161b22;
     padding: 20px;
@@ -108,7 +105,6 @@ footer {
     transform: translateY(-4px);
 }
 
-<<<<<<< HEAD
 .reveal {
   opacity: 0;
   transform: translateY(60px) scale(0.95);
@@ -123,8 +119,6 @@ footer {
 }
 
 
-=======
->>>>>>> 36e1d4006de1a22b6c2aab193dcae05fe914fc8f
 .header-stats {
     margin-top: 12px;
     display: flex;
@@ -155,7 +149,6 @@ footer {
     box-shadow: 0 0 10px rgba(31,111,235,0.3);
 }
 
-<<<<<<< HEAD
 
 
 .NavHead a{
@@ -170,8 +163,6 @@ footer {
 
 
 
-=======
->>>>>>> 36e1d4006de1a22b6c2aab193dcae05fe914fc8f
 .profile-section {
     text-align: center;
 }
@@ -201,11 +192,8 @@ footer {
     text-decoration: underline;
 }
 
-<<<<<<< HEAD
 
 
-=======
->>>>>>> 36e1d4006de1a22b6c2aab193dcae05fe914fc8f
 .article-section {
   text-align: center;
 }
@@ -216,12 +204,9 @@ footer {
   color: #58a6ff;
 }
 
-<<<<<<< HEAD
 
 
 
-=======
->>>>>>> 36e1d4006de1a22b6c2aab193dcae05fe914fc8f
 .skill-section {
   text-align: center;
 }
@@ -266,7 +251,6 @@ footer {
 
 
 
-<<<<<<< HEAD
 .certifications {
     margin-top: 40px;
     text-align: center;
@@ -320,8 +304,6 @@ footer {
 
 
 
-=======
->>>>>>> 36e1d4006de1a22b6c2aab193dcae05fe914fc8f
 .project-container {
     display: flex;
     text-align: center;
@@ -383,11 +365,8 @@ footer {
     transform: translateY(-3px);
 }
 
-<<<<<<< HEAD
 
 
-=======
->>>>>>> 36e1d4006de1a22b6c2aab193dcae05fe914fc8f
 .social-section h2{
   text-align: center;
   color: #58a6ff;
@@ -425,21 +404,14 @@ footer {
     object-fit: contain;
 }
 
-<<<<<<< HEAD
 
 
-=======
->>>>>>> 36e1d4006de1a22b6c2aab193dcae05fe914fc8f
 .contact-section {
   text-align: center;
   color: #58a6ff;
 }
 
-<<<<<<< HEAD
 .contact-link {
-=======
-.contact-links {
->>>>>>> 36e1d4006de1a22b6c2aab193dcae05fe914fc8f
     display: flex;
     flex-direction: column;
     gap: 10px;
@@ -472,10 +444,7 @@ footer {
 }
 
 
-<<<<<<< HEAD
 
-=======
->>>>>>> 36e1d4006de1a22b6c2aab193dcae05fe914fc8f
 @media (max-width: 768px) {
     main {
         flex-direction: column;
@@ -486,16 +455,3 @@ footer {
         gap: 10px;
     }
 }
-<<<<<<< HEAD
-=======
-
-#Art a{
-  text-align: center;
-  font-weight: 500;
-  color: #58a6ff;
-}
-
-#Art {
-  text-align: center;
-}
->>>>>>> 36e1d4006de1a22b6c2aab193dcae05fe914fc8f
