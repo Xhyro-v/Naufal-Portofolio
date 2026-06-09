@@ -206,7 +206,7 @@ footer {
   text-align: left;
 }
 
-.article-section h2 {
+.article-section h2{
   margin: 0 0 10px 0;
   padding-bottom: 5px;
   color: #58a6ff;
@@ -476,7 +476,6 @@ body {
     height: 24px;
     object-fit: contain;
 }
-
 
 
 @media (max-width: 768px) {
